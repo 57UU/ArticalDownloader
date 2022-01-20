@@ -37,7 +37,7 @@ for i in identify.findall(html):
     else:
         link2=link
     all.append(Net.Item(title,link2))
-f=open("dst","w",encoding='utf-8')
+f=open("download.txt","w",encoding='utf-8')
 for i in all:
     i.content=Match.findContent(Net.openURL(i.link),i)
     if(i.ignore or i.content==None):
