@@ -1,5 +1,8 @@
 # ArticalDownloader小说下载器
 
+#why
+有些小说网站只提供在线阅读，不提供下载方式
+
 #How to use?
 >1打开Finder.py
 
