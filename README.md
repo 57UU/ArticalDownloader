@@ -1,5 +1,5 @@
-# ArticalDownloader
-小说下载器
+# ArticalDownloader小说下载器
+
 #How to use?
 >1打开Finder.py
 
